@@ -1538,7 +1538,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _dialogList:
-  - leftSpriteID: 4
+  - leftSpriteID: 1
     rightSpriteID: 0
     charID: 0
     text: (muttering) "Um... what's going on? Where am I?"
@@ -1549,7 +1549,7 @@ MonoBehaviour:
       yet strangely foreign. The old wallpaper, the worn carpet, the massive wooden
       cabinet - everything is in place, but it seems to be covered by a thin veil
       of unreality.
-  - leftSpriteID: 10
+  - leftSpriteID: 1
     rightSpriteID: 0
     charID: 0
     text: (confused) "Is this... my room? Why does it look so... different?"
@@ -1558,7 +1558,7 @@ MonoBehaviour:
     charID: 1
     text: Suddenly, your gaze lands on the black cat sitting on the edge of the bed.
       Its amber eyes stare at you, as if trying to say something.
-  - leftSpriteID: 6
+  - leftSpriteID: 1
     rightSpriteID: 0
     charID: 0
     text: '(surprised): "Where did you come from, fluffy?"'
@@ -1567,7 +1567,7 @@ MonoBehaviour:
     charID: 1
     text: The cat doesn't move, continuing to watch you intently. Its tail sways
       lazily from side to side.
-  - leftSpriteID: 9
+  - leftSpriteID: 1
     rightSpriteID: 0
     charID: 0
     text: (confused) "That's weird... I've never had a cat. What's your name, little
@@ -1577,12 +1577,13 @@ MonoBehaviour:
     charID: 1
     text: You start running through different names in your head, trying to guess
       the name of the mysterious visitor.
-  - leftSpriteID: 11
+  - leftSpriteID: 1
     rightSpriteID: 0
     charID: 0
     text: '"Are you Fluffy? Or Ember? Clouddy?"'
   - leftSpriteID: 0
     rightSpriteID: 0
+<<<<<<< HEAD
     charID: 2
     text: Remains unfazed by these attempts.
   - leftSpriteID: 0
@@ -1639,6 +1640,10 @@ MonoBehaviour:
     rightSpriteID: 0
     charID: 0
     text: (whispering) "Okay, Blackie, I'm here. What now?".
+=======
+    charID: 0
+    text: '"Are you Fluffy? Or Ember? Clouddy?"'
+>>>>>>> parent of b73556c (Dialogue A (part 1)_Changes)
   _dialogBox: {fileID: 729203111}
   _nonInteractable: 1
 --- !u!4 &1614361783
