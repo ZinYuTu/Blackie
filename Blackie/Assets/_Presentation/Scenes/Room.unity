@@ -1487,7 +1487,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _dialogList:
-  - leftSpriteID: 1
+  - leftSpriteID: 4
     rightSpriteID: 0
     charID: 0
     text: (muttering) "Um... what's going on? Where am I?"
@@ -1498,7 +1498,7 @@ MonoBehaviour:
       yet strangely foreign. The old wallpaper, the worn carpet, the massive wooden
       cabinet - everything is in place, but it seems to be covered by a thin veil
       of unreality.
-  - leftSpriteID: 1
+  - leftSpriteID: 10
     rightSpriteID: 0
     charID: 0
     text: (confused) "Is this... my room? Why does it look so... different?"
@@ -1507,7 +1507,7 @@ MonoBehaviour:
     charID: 1
     text: Suddenly, your gaze lands on the black cat sitting on the edge of the bed.
       Its amber eyes stare at you, as if trying to say something.
-  - leftSpriteID: 1
+  - leftSpriteID: 6
     rightSpriteID: 0
     charID: 0
     text: '(surprised): "Where did you come from, fluffy?"'
@@ -1516,7 +1516,7 @@ MonoBehaviour:
     charID: 1
     text: The cat doesn't move, continuing to watch you intently. Its tail sways
       lazily from side to side.
-  - leftSpriteID: 1
+  - leftSpriteID: 9
     rightSpriteID: 0
     charID: 0
     text: (confused) "That's weird... I've never had a cat. What's your name, little
@@ -1526,14 +1526,68 @@ MonoBehaviour:
     charID: 1
     text: You start running through different names in your head, trying to guess
       the name of the mysterious visitor.
-  - leftSpriteID: 1
+  - leftSpriteID: 11
     rightSpriteID: 0
     charID: 0
     text: '"Are you Fluffy? Or Ember? Clouddy?"'
   - leftSpriteID: 1
     rightSpriteID: 0
+    charID: 2
+    text: Remains unfazed by these attempts.
+  - leftSpriteID: 1
+    rightSpriteID: 0
+    charID: 1
+    text: You continue, becoming more and more immersed in the guessing game
+  - leftSpriteID: 12
+    rightSpriteID: 0
     charID: 0
-    text: '"Are you Fluffy? Or Ember? Clouddy?"'
+    text: '"Hmm... Then maybe Blackie?""Hmm... Then maybe Blackie?"'
+  - leftSpriteID: 1
+    rightSpriteID: 0
+    charID: 2
+    text: His ears twitch at the sound of the name, and a spark of recognition appears
+      in his eyes.
+  - leftSpriteID: 6
+    rightSpriteID: 0
+    charID: 0
+    text: ' "Blackie? Really? You answer to that name?"'
+  - leftSpriteID: 1
+    rightSpriteID: 0
+    charID: 2
+    text: A soft "meow."
+  - leftSpriteID: 4
+    rightSpriteID: 0
+    charID: 0
+    text: '"Okay then, Blackie. What are you doing here? What do you want?" '
+  - leftSpriteID: 1
+    rightSpriteID: 0
+    charID: 3
+    text: A loud "meow", turning his head towards the bookcase.
+  - leftSpriteID: 11
+    rightSpriteID: 0
+    charID: 0
+    text: '"What? Where are you looking? I don''t understand..."'
+  - leftSpriteID: 1
+    rightSpriteID: 0
+    charID: 1
+    text: The cat, clearly displeased by your lack of understanding, lets out an
+      irritated snort. Then he gracefully jumps off the bed and in one smooth motion,
+      leaps onto the dresser lined with books. There, he begins to meow loudly, as
+      if trying to draw your attention to something important.
+  - leftSpriteID: 12
+    rightSpriteID: 0
+    charID: 0
+    text: '"You want me to go to the books? But why?"'
+  - leftSpriteID: 1
+    rightSpriteID: 0
+    charID: 1
+    text: Despite your confusion and slight anxiety, you slowly get up from the bed.
+      You carefully approach the dresser where Blackie is sitting, not taking your
+      eyes off the mysterious cat.
+  - leftSpriteID: 4
+    rightSpriteID: 0
+    charID: 0
+    text: (whispering) "Okay, Blackie, I'm here. What now?".
   _dialogBox: {fileID: 729203111}
   _nonInteractable: 1
 --- !u!4 &1614361783
